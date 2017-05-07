@@ -1,0 +1,61 @@
+---
+title: "analysis"
+author: "Katie Jolly"
+date: "May 2, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+attach(sites)
+attach(pctUse)
+library(ggthemes)
+```
+
+```{r}
+ggplot(sites, aes(x = web_fact)) + geom_bar() + facet_wrap(~type_fact) + xlab('Does the venture have a website?') + ylab('Total number') + ggtitle('Websites for alternative agriculture', subtitle = 'In Minnesota') + theme_economist() + scale_colour_economist()
+```
+
+```{r}
+ggsave('websites.jpg')
+```
+
+```{r}
+sum(sites$type_fact == 'Community Garden')
+sum(sites$type_fact == 'Urban farm')
+sum(sites$type_fact == 'CSA')
+nrow(sites)
+```
+
+```{r}
+ggplot(sites, aes(x = as.factor(FB))) + geom_bar() + facet_wrap(~type_fact) + xlab('Does the venture have a Facebook page?') + ylab('Total number') + ggtitle('Facebook pages for alternative agriculture', subtitle = 'Does not include Facebook groups') + theme_economist() + scale_colour_economist()
+```
+
+```{r}
+ggsave('facebook.jpg')
+```
+
+```{r}
+ggplot(sites, aes(x = as.factor(Twitter))) + geom_bar() + facet_wrap(~type_fact) + xlab('Does the venture have a Twitter account?') + ylab('Total number') + ggtitle('Twitter for alternative agriculture', subtitle = 'In Minnesota') + theme_economist() + scale_colour_economist()
+```
+
+```{r}
+ggsave('twitter.jpg')
+```
+
+```{r}
+ggplot(sites, aes(x = as.factor(instagram))) + geom_bar() + facet_wrap(~type_fact) + xlab('Does the venture have an Instagram account?') + ylab('Total number') + ggtitle('Instagram for alternative agriculture', subtitle = 'In Minnesota') + theme_economist() + scale_colour_economist()
+```
+
+```{r}
+ggsave('instagram.jpg')
+```
+
+```{r}
+ggplot(pctUse, aes(x = pctFB, y = avgFB, color = type_fact)) + geom_point() + theme_economist() + scale_colour_economist() 
+```
+

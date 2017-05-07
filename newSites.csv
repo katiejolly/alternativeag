@@ -1,0 +1,50 @@
+,Location,Name,Type,FB,FB_year,fb_checkins,FB_likes,FB_followers,Twitter,T_year,T_following,tweets,T_followers,website,instagram,i_followers,i_following,i_posts,researcher,web_fact,type_fact,tw_ratio,tw_ratio_fix
+1,"Crookston, MN",Riverside Community Garden,Community Garden,Y,2016,8,98,94,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Katie,Y,Community Garden,NA,NA
+2,"Pine River, MN",Pine River-Backus Community Garden,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,N,N,NA,NA,NA,Katie,N,Community Garden,NA,NA
+3,"Duluth, MN",Strawberry Hill Community Garden,Community Garden,Y,2009,21,1596,1583,N,NA,NA,NA,NA,Y,Y,157,218,16,Katie,Y,Community Garden,NA,NA
+4,"Moose Lake, MN",United Community Garden,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+5,"St. Francis, MN",Roselawn Heritage Farms/Community Gardens,Community Garden,Y,2011,0,47,46,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+6,"Brooklyn Center, MN",Odyssey-Vinai Community Garden,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+7,"Minneapolis, MN",NE Riverside Garden Club,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+8,"Shorewood, MN",South Shore Community Park,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+9,"St. Paul, MN",Dunning Community Garden,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+10,"St. Paul, MN",Oxford- Dayton Community Farm and Garden,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+11,"St. Paul, MN",St. Anthony Park Community Garden,Community Garden,Y,2015,0,22,22,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+12,"Minneapolis, MN",Fellowship Missionary Baptist Church,Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+13,"Minneapolis, MN","The Mashkiikii Gitigan, 24th Street Urban Farm",Community Garden,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Community Garden,NA,NA
+14,"St. Paul, MN",Merriam Station Community Garden,Community Garden,Y,2012,NA,130,171,Y,2014,28,16,15,Y,Y,25,36,53,Brant,Y,Community Garden,1.866666667,1.12
+15,"Maple Grove, MN",Maple Grove Farmers Market,Farmers Market,Y,2010,586,4504,4370,Y,2012,727,784,666,Y,N,NA,NA,NA,Brant,Y,Farmers Market,1.091591592,1.075443787
+16,"Brooklyn Park, MN",Brooklyn Park Farmers Market,Farmers Market,Y,2013,12,543,531,N,NA,NA,NA,NA,N,N,NA,NA,NA,Brant,N,Farmers Market,NA,NA
+17,"Becker, Mn",Becker Farmers Market,Farmers Market,Y,2016,0,179,178,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Brant,Y,Farmers Market,NA,NA
+18,"Minneapolis, MN",Nokomis Farmers Market,Farmers Market,Y,2014,232,2789,2782,Y,2013,37,594,721,Y,Y,1580,183,751,NA,Y,Farmers Market,0.051317614,0.050615595
+19,"Duluth, MN",Lincoln Park Farmers Market,Farmers Market,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,Farmers Market,NA,NA
+20,"Mahnomen, MN",White Earth Community Farmers Market,Farmers Market,Y,2015,0,178,178,N,NA,NA,NA,NA,N,N,NA,NA,NA,NA,N,Farmers Market,NA,NA
+21,"Rochester, MN",Rochester Downtown Farmers Market,Farmers Market,Y,2009,2279,11761,11460,N,NA,NA,NA,NA,Y,Y,1101,9,72,NA,Y,Farmers Market,NA,NA
+22,"Wells, MN",Wells Farmers Market,Farmers Market,Y,2011,6,177,173,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,Farmers Market,NA,NA
+23,"Farmington, MN",Farmington Farmers Market,Farmers Market,N,NA,NA,NA,NA,Y,2015,244,94,279,Y,N,NA,NA,NA,NA,Y,Farmers Market,0.874551971,0.844290657
+24,"Winona, MN",Winona Farmers Market,Farmers Market,Y,2010,338,2801,2759,N,NA,NA,NA,NA,Y,Y,279,21,300,NA,Y,Farmers Market,NA,NA
+25,"Elbow Lake, MN",Elbow Lake Farmers Market,Farmers Market,Y,2015,54,"29,561","28,778",N,NA,NA,NA,NA,N,NA,NA,NA,NA,Alex,N,Farmers Market,NA,NA
+26,"St. Paul, MN",St. Paul Farmers Market,Farmers Market,Y,2017,13257,259,271,Y,2010,1099,1172,3683,Y,Y,1676,360,500,Alex,Y,Farmers Market,0.298398045,0.297590035
+27,"Lakeville, MN",Lakeville Farmers Market,Farmers Market,Y,2012,83,20,20,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,Farmers Market,NA,NA
+28,"Minneapolis, MN",Minneapolis Farmers Market,Farmers Market,Y,2011,45770,41975,40311,Y,2009,18800,14200,38400,Y,Y,12400,215,805,NA,Y,Farmers Market,0.489583333,0.489455871
+29,"Minneapolis, MN",Tangletown Gardens LLC,CSA,Y,2012,774,11163,10814,Y,2011,198,1522,606,Y,Y,1542,138,261,NA,Y,CSA,0.326732673,0.321428571
+30,"Princeton, MN",Uproot Farm,CSA,Y,2013,30,620,596,Y,2012,5,1,37,Y,Y,137,136,50,NA,Y,CSA,0.135135135,0.106382979
+31,"Little Falls, MN",Sprout Food Hub,CSA,Y,2013,11,774,765,Y,2016,23,22,44,Y,Y,274,74,45,NA,Y,CSA,0.522727273,0.425925926
+32,"Lino Lakes, MN","All Good Organics, Inc.",CSA,Y,2013,47,542,538,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,CSA,NA,NA
+33,"Isanti, MN",Outstanding in our Field,CSA,Y,2012,52,351,335,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,CSA,NA,NA
+34,"Monticello, MN",Gardner's Garden,CSA,Y,2015,2,58,57,N,NA,NA,NA,NA,N,N,NA,NA,NA,NA,N,CSA,NA,NA
+35,"Hutchinson, MN",The Farm of Minnesota,CSA,Y,2011,15,238,233,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,CSA,NA,NA
+36,"Maplewood, MN",Garden Fresh Farms,CSA,Y,2011,11,884,852,Y,2012,17,196,427,Y,N,NA,NA,NA,NA,Y,CSA,0.039812646,0.038901602
+37,"Embarrass, MN",Fat Chicken Farm,CSA,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,CSA,NA,NA
+38,"Minnestrista, MN",Gale Woods Farm,CSA,Y,NA,"1,993","3,706","3,648",N,NA,NA,NA,NA,Y,Y,531,188,299,Meredith,Y,CSA,NA,NA
+39,"Big Lake, MN",Brown Family Farm,CSA,Y,NA,NA,538,527,N,NA,NA,NA,NA,Y,N,NA,NA,NA,Meredith,Y,CSA,NA,NA
+40,"Minneapolis, MN",Stone's Throw Urban Farm,Urban farm,Y,2011,118,2188,2146,N,NA,NA,NA,NA,Y,Y,649,65,130,NA,Y,Urban farm,NA,NA
+41,"Minneapolis, MN",Growing Lots Urban Farm,Urban farm,Y,2010,NA,1902,1881,Y,2011,108,312,398,Y,N,NA,NA,NA,NA,Y,Urban farm,0.271356784,0.264705882
+42,"St. Paul, MN",Urban Organics,Urban farm,Y,2011,78,40896,40742,Y,2011,218,232,672,Y,Y,1043,110,70,NA,Y,Urban farm,0.324404762,0.319648094
+43,"Minneapolis, MN",Bootstrap Urban Farm,Urban farm,Y,2014,0,593,590,Y,2014,651,116,357,Y,Y,180,396,37,NA,Y,Urban farm,1.823529412,1.773841962
+44,"Minneapolis, MN",Little Earth Urban Farm,Urban farm,N,NA,NA,NA,NA,N,NA,NA,NA,NA,Y,N,NA,NA,NA,NA,Y,Urban farm,NA,NA
+45,"St. Paul, MN",Frogtown Farm,Urban farm,Y,2013,257,1856,1831,N,NA,NA,NA,NA,Y,Y,305,29,62,NA,Y,Urban farm,NA,NA
+46,"Vadnais Heights, MN",Urban's Farm & Greenhouses,Urban farm,Y,2010,14,93,93,N,NA,NA,NA,NA,N,N,NA,NA,NA,NA,N,Urban farm,NA,NA
+47,"Minneapolis, MN",Tiny Diner Farm,Urban farm,Y,2013,43,856,845,Y,2014,71,275,888,Y,Y,2523,562,539,NA,Y,Urban farm,0.079954955,0.079064588
+48,"St. Paul, MN",Urban Roots,Urban farm,Y,2014,54,1335,1318,Y,2012,551,791,838,Y,Y,150,36,29,NA,Y,Urban farm,0.6575179,0.649764151
+49,"Minneapolis, MN",Urban Ventures,Urban farm,Y,2011,1415,2858,2784,Y,2011,494,1077,793,Y,Y,762,198,272,NA,Y,Urban farm,0.62295082,0.615193026
